@@ -1,6 +1,6 @@
-Nama : Regy Kurnia Saputra
-Nim : 240401010147
-kelas :IF401
+Nama : Regy Kurnia Saputra  
+Nim : 240401010147  
+kelas :IF401  
 
 # Portofolio Belajar Data Science - Regy
 
