@@ -1,6 +1,8 @@
-Nama : Regy Kurnia Saputra  
-Nim : 240401010147  
-kelas :IF401  
+**Identitas Mahasiswa:**
+- **Nama:** Regy Kurnia Saputra
+- **NIM:** 240401010147
+- **Kelas:** IF401
+- **Program Studi:** Informatika
 
 # Portofolio Belajar Data Science - Regy
 
@@ -46,8 +48,4 @@ Perjalanan belajar dari Pertemuan 1 hingga 7 telah memberikan fondasi yang kompr
 Seluruh rangkaian pembelajaran ini memberikan keterampilan esensial yang akan saya terapkan dalam pengembangan sistem inventori yang sedang saya kerjakan.
 
 ---
-**Identitas Mahasiswa:**
-- **Nama:** Regy Kurnia Saputra
-- **NIM:** 240401010147
-- **Kelas:** IF401
-- **Program Studi:** Informatika
+
