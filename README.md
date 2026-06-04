@@ -45,7 +45,5 @@ Perjalanan belajar dari Pertemuan 1 hingga 7 telah memberikan fondasi yang kompr
 - **Validitas model:** Saya mempelajari pentingnya *Train-Test Split* untuk mencegah *data leakage* dan memastikan evaluasi model mencerminkan performa pada data baru.
 - **Pemodelan & Interpretasi:** Saya berhasil membangun model Regresi Linear pertama dan mengevaluasinya dengan metrik seperti MAE dan RMSE untuk memastikan performa yang realistis.
 
-Seluruh rangkaian pembelajaran ini memberikan keterampilan esensial yang akan saya terapkan dalam pengembangan sistem inventori yang sedang saya kerjakan.
-
 ---
 
